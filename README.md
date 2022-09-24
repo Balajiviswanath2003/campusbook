@@ -1,0 +1,2 @@
+# campusbook
+Our app will act as a platform for people of the same organization to communicate. This app contains multiple pages enabling people to communicate publically and privately. This will serve as a question-and-answer app containing a queries page, but the highlight would be the complaints page. Anyone can send an anonymous message on the complaints. The complaints will be ordered based on the "agree"s of each complaint so that the organization can take the right action. The app will not let users send any unprofessional messages.
