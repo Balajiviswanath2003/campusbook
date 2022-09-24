@@ -1,0 +1,9 @@
+{
+	"name": "chatbot_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "goutham.ec20@bitsathy.ac.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

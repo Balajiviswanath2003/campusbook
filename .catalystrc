@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2234000000011001",
+      "name": "chatbot",
+      "domain": {
+        "id": "50010703899",
+        "name": "chatbot-60016811762.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016811762",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
